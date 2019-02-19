@@ -1,3 +1,3 @@
-for (var i = 0; 1 < 25; i++){
-  ('I am ${i} strange loop$ the "+1+"time');
+for (var i = 0; i < 25; i++){
+  console.log('I am 1 strange loop')
 }
